@@ -1,0 +1,22 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "Base Service service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo 'No tests created yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avasilenko92"
+  },
+  "keywords": [
+    "service",
+    "directory"
+  ],
+  "author": "Andrew Vasilenko",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
